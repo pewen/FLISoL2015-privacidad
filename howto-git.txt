@@ -17,3 +17,5 @@ git commit -m "whatsapp!"
 5. Subir los commits al repositorio
 git push
 
+6. Para ver actualizar el repo local
+git pull
