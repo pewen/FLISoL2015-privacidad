@@ -19,3 +19,7 @@ git push
 
 6. Para ver actualizar el repo local
 git pull
+
+referencias:
+http://daringfireball.net/projects/markdown/basics
+https://guides.github.com/features/mastering-markdown/
