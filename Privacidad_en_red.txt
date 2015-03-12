@@ -10,8 +10,7 @@ Privacidad en la web
   - Elección del navegador (Prohibido explorer)
   - Extenciones del navegador
   - Buscadores (Mas allá de google)
-  - Metadata (¿?)
-
+  - Metadata
   
 - Comunicandonos en la red
   - Alternativas a WA (telegram, etc)
