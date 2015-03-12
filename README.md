@@ -2,7 +2,7 @@ Privacidad en la web
 --------------------
 
 - Introducción
-  - Por que esto? Para que?
+  - Por que esta presentación? Para que?
   - Google localation
   - Samsung Smart TV
   - Referencia Black Mirror (pantalla rota)
@@ -20,7 +20,7 @@ Privacidad en la web
   - Proteger el mail (No dejarlo en cualquier lado)
   - Phishing
   - Mensajeria intantane: Tox, XMPP, Cryptocat
-  - No todo es Face (Lista de correo, etc)
+  - No todo es Facebook (Lista de correo, etc)
   - Almacenamiento en Cloud (ownCloud, etc)
 
 - Anonimato
@@ -32,9 +32,9 @@ Privacidad en la web
 - Colaboraron
   
 - Referencias
-  - web via libre
+  - web via libre http://www.vialibre.org.ar
   - Surveillance Self-Defense EFF's guide https://ssd.eff.org/es
-  - Ted (varias, protonmail, etc)
+  - Charlas TED (varias, protonmail, etc)
   - http://www.scoop.it/IPcontrol
 
 - Licencia
