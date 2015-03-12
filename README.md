@@ -20,7 +20,7 @@ Privacidad en la web
   - Proteger el mail (No dejarlo en cualquier lado)
   - Phishing
   - Mensajeria intantane: Tox, XMPP, Cryptocat
-  - No solo es Face (Lista de correo, etc)
+  - No todo es Face (Lista de correo, etc)
   - Almacenamiento en Cloud (ownCloud, etc)
 
 - Anonimato
