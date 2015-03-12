@@ -1,0 +1,19 @@
+
+0. Instalar git
+sudo apt-get install git
+
+1. Clonar el repositorio (Esto se realiza una unica vez)
+git clone https://github.com/pewen/FLISoL2015-privacidad.git
+
+2. Vemos que no esta comiteado
+git status
+
+3. Decirle a git que lo agregue en proximo commit
+git add mi_documento
+
+4. Hacer el commit (comentado que es lo nuevo)
+git commit -m "whatsapp!"
+
+5. Subir los commits al repositorio
+git push
+
