@@ -33,9 +33,9 @@ Privacidad en la web
   
 - Referencias
   - web via libre
-  - Surveillance Self-Defense EFF's guide
+  - Surveillance Self-Defense EFF's guide https://ssd.eff.org/es
   - Ted (varias, protonmail, etc)
   - http://www.scoop.it/IPcontrol
 
 - Licencia
-CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+  - CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
