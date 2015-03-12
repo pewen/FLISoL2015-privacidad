@@ -28,10 +28,14 @@ Privacidad en la web
 
 - Segurirad en mi compu
   - Truecryp (o alternativas)
+
+- Colaboraron
   
-- Referencias:
+- Referencias
   - web via libre
   - Surveillance Self-Defense EFF's guide
   - Ted (varias, protonmail, etc)
   - http://www.scoop.it/IPcontrol
-  
+
+- Licencia
+CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
