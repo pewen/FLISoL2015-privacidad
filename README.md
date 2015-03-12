@@ -1,7 +1,8 @@
 Privacidad en la web
 --------------------
 
-- Por que esto? Para que?
+- Introducción
+  - Por que esto? Para que?
   - Google localation
   - Samsung Smart TV
   - Referencia Black Mirror (pantalla rota)
@@ -14,7 +15,7 @@ Privacidad en la web
   
 - Comunicandonos en la red
   - Alternativas a WA (telegram, etc)
-  - Mas alternativas a google, mail: gmail (riseup, protonmail, otro)
+  - Alternativas a gmail (riseup, protonmail, otro)
   - Seguridad en el Mail (PGP y GPG)
   - Proteger el mail (No dejarlo en cualquier lado)
   - Phishing
