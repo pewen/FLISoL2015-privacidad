@@ -16,10 +16,10 @@ Privacidad en la web
 - Comunicándonos en la red
   - Alternativas a WA (telegram, etc)
   - Alternativas a gmail (riseup, protonmail, otro)
-  - Seguridad en el Mail (PGP y GPG)
+  - Privacidad en el Mail (PGP y GPG)
   - Proteger el mail (No dejarlo en cualquier lado)
   - Phishing
-  - Mensajeria intantane: Tox, XMPP, Cryptocat
+  - Mensajeria intantane: Tox, XMPP, Cryptocat, OTR
   - No todo es Facebook (Lista de correo, etc)
   - Almacenamiento en Cloud (ownCloud, etc)
 
