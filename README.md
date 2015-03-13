@@ -35,7 +35,7 @@ Privacidad en la web
   - web via libre http://www.vialibre.org.ar
   - Surveillance Self-Defense EFF's guide https://ssd.eff.org/es
   - Charlas TED (varias, protonmail, etc)
-  - http://www.scoop.it/IPcontrol
+  - Breve compendio http://www.scoop.it/IPcontrol
 
 - Licencia
   - CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
