@@ -19,7 +19,7 @@ Privacidad en la web
   - Privacidad en el Mail (PGP y GPG)
   - Proteger el mail (No dejarlo en cualquier lado)
   - Phishing
-  - Mensajeria intantane: Tox, XMPP, Cryptocat, OTR
+  - Mensajeria instantánea: Tox, XMPP, Cryptocat, OTR
   - No todo es Facebook (Lista de correo, etc)
   - Almacenamiento en Cloud (ownCloud, etc)
 
