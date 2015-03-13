@@ -32,17 +32,10 @@ Privacidad en la web
 - Colaboraron
   
 - Referencias
-<<<<<<< HEAD
   - [web via libre](http://www.vialibre.org.ar)
   - [Surveillance Self-Defense EFF's guide](https://ssd.eff.org/es)
   - Charlas TED (varias, [protonmail](http://www.ted.com/talks/andy_yen_think_your_email_s_private_think_again) , etc) 
-  - http://www.scoop.it/IPcontrol
-=======
-  - web via libre http://www.vialibre.org.ar
-  - Surveillance Self-Defense EFF's guide https://ssd.eff.org/es
-  - Charlas TED (varias, protonmail, etc)
-  - Breve compendio http://www.scoop.it/IPcontrol
->>>>>>> 23666f69727f9a847bfb2e36a27c1f30797525d6
+  - [Breve compendio](http://www.scoop.it/IPcontrol)
 
 - Licencia
   - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
