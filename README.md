@@ -54,7 +54,7 @@ Privacidad en la web
 - Colaboraron en la realización de esta presentación
   
 - Referencias
-  - [web via libre](http://www.vialibre.org.ar)
+  - [Fundación via libre](http://www.vialibre.org.ar)
   - [Surveillance Self-Defense EFF's guide](https://ssd.eff.org/es)
   - Charlas TED
 	- [protonmail](http://www.ted.com/talks/andy_yen_think_your_email_s_private_think_again)
