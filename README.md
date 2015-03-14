@@ -2,14 +2,13 @@ Privacidad en la web
 --------------------
 
 - Introducción
-  - Por que esta presentación? Para que?
+  - ¿Por qué esta presentación? ¿Para qué? Charla de Sensibilización
   - Google localation
   - Samsung Smart TV
-  - Referencia Black Mirror (pantalla rota)
 
 - Seguridad y privacidad en el navegador. Don't track us.
-  - Elección del navegador (Prohibido explorer)
-  - Extenciones del navegador
+  - Elección del navegador (Prohibido explorer!)
+  - Extensiones del navegador
 	- Privacy Badger: blocks spying ads and invisible trackers
 	- HTTPS Everywhere: Encrypt the Web! Automatically use HTTPS
       security on many sites.
@@ -27,12 +26,14 @@ Privacidad en la web
   - Alternativas a WhatsApp
 	- telegram
   - Alternativas a gmail
-	- riseup
-	- protonmail
+	- RiseUp
+	- ProtonMail
+	- OpenMailbox
   - Privacidad en el Mail
 	- GPG
   - Proteger el mail
-	- No colocar la dirección en una web
+    - ¿Escribirías tu nro de cel en un paredón?
+	  No colocar la dirección en una web
   - Phishing
   - Mensajeria instantánea
 	- Tox
