@@ -2,12 +2,12 @@ Privacidad en Internet
 ----------------------
 
 - Motivación
-Concientizar sobre la privacidad en Internet.
-Mostrar software para mantener la privacidad.
-En la medida de lo posible se instalaran las aplicaciones básicas y se
-mostrará como usarlas.
-Generar interés en los asistentes para ser más cuidadoso en lo que ha
-privacidad se refiere.
+  - Concientizar sobre la privacidad en Internet.
+  - Mostrar software para mantener la privacidad.
+  - En la medida de lo posible se instalaran las aplicaciones básicas
+  y se mostrará como usarlas.
+  - Generar interés en los asistentes para ser más cuidadoso en lo que
+  ha privacidad se refiere.
 
 - Introducción
   - ¿Por qué esta presentación? ¿Para qué? Charla de Sensibilización
