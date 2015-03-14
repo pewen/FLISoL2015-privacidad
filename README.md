@@ -39,3 +39,6 @@ Privacidad en la web
 
 - Licencia
   - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+- Contacto
+  - [@ucaomo](https://twitter.com/ucaomo) Lucas E. Bellomo
