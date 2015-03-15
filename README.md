@@ -75,7 +75,7 @@ Privacidad en Internet
 
 - Cifrado del sistema de archivo (mantener seguros determinados
   documentos)
-  - ¿Qué pasó con TrueCrypt)
+  - ¿Qué pasó con TrueCrypt?
   - Zulucrypt (maneja volumenes previamente creado con TrueCrypt)
   - Tc-play
   - DiskCryptor
@@ -85,7 +85,8 @@ Privacidad en Internet
 - Colaboraron en la realización de esta presentación
   
 - Referencias
-  - [Fundación via libre](http://www.vialibre.org.ar)
+  - [Fundación Vía Libre](http://www.vialibre.org.ar)
+  - [ONG Derechos digitales](https://www.derechosdigitales.org)
   - [Surveillance Self-Defense EFF's guide](https://ssd.eff.org/es)
   - [Carta de Derechos Humanos y Principios en Internet](http://diadeinternet.org/pdfs/Internet_Derechos_Principios.pdf)
   - Charlas TED
