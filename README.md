@@ -3,7 +3,7 @@ Privacidad en Internet
 
 - Motivación
   - Concientizar sobre la privacidad en Internet.
-  - Mostrar software para mantener la privacidad.
+  - Mostrar software libre para mantener la privacidad.
   - En la medida de lo posible se instalaran las aplicaciones básicas
   y se mostrará como usarlas.
   - Generar interés en los asistentes para ser más cuidadoso en lo que
@@ -46,6 +46,7 @@ Privacidad en Internet
   - Alternativas a WhatsApp
 	- telegram
   - Alternativas a gmail
+	- ¿Que paso con lavabit?
 	- RiseUp
 	- ProtonMail
 	- OpenMailbox
@@ -53,7 +54,7 @@ Privacidad en Internet
 	- GPG
   - Proteger el mail
     - ¿Escribirías tu nro de cel en un paredón?
-	  No colocar la dirección en una web
+	- No colocar la dirección en una web
   - Phishing
   - Mensajeria instantánea
 	- Tox
