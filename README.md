@@ -3,7 +3,7 @@ Privacidad en Internet
 
 - Motivación
   - Concientizar sobre la privacidad en Internet.
-  - Mostrar software libre para mantener la privacidad.
+  - Difundir software libre para mantener la privacidad.
   - En la medida de lo posible se instalaran las aplicaciones básicas
   y se mostrará como usarlas.
   - Generar interés en los asistentes para ser más cuidadoso en lo que
@@ -43,6 +43,8 @@ Privacidad en Internet
   - Metadata
   
 - Comunicándonos en la red
+  - Campaña: que vuelvan los alias
+	- Caso cajera despedida del trabajo.
   - Alternativas a WhatsApp
 	- telegram
   - Alternativas a gmail
