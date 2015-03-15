@@ -68,6 +68,7 @@ Privacidad en Internet
 
 - Anonimato
   - Tor
+  - Tor Browser
 
 - Cifrado del sistema de archivo (mantener seguros determinados
   documentos)
