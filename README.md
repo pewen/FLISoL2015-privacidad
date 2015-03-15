@@ -13,6 +13,8 @@ Privacidad en Internet
   - ¿Por qué esta presentación? ¿Para qué? Charla de Sensibilización
   - Google localation
   - Samsung Smart TV
+  - Cuando una empresa te da gratis un servicio la mercancía sos vos
+    (tus datos)
 
 - Privacidad en Internet como Derecho Humano
   - Derecho al anonimato y utilizar el cifrado
@@ -33,6 +35,8 @@ Privacidad en Internet
       browsing and block them
 	- Blur (Formerly DoNotTrackMe): Protect your Passwords, Payments,
       and Privacy
+	- alguna para eliminar cookies
+	- Adblock Plus
   - Buscadores (Mas allá de google)
 	- DuckDuckGo
 	- StartPage
@@ -65,8 +69,14 @@ Privacidad en Internet
 - Anonimato
   - Tor
 
-- Segurirad en mi compu
-  - Truecryp (o alternativas)
+- Cifrado del sistema de archivo (mantener seguros determinados
+  documentos)
+  - ¿Qué pasó con TrueCrypt)
+  - Zulucrypt (maneja volumenes previamente creado con TrueCrypt)
+  - Tc-play
+  - DiskCryptor
+  - AES Crypt
+  - Cryptsetup
 
 - Colaboraron en la realización de esta presentación
   
