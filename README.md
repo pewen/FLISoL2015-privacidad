@@ -66,9 +66,11 @@ Privacidad en Internet
   - Almacenamiento en Cloud
 	- ownCloud
 
-- Anonimato
+- Anonimato on-line
   - Tor
-  - Tor Browser
+	- Tor Browser
+  - VPN
+	- hola!
 
 - Cifrado del sistema de archivo (mantener seguros determinados
   documentos)
