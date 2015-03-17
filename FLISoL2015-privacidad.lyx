@@ -1,0 +1,152 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass beamer
+\begin_preamble
+%\usetheme{AnnArbor} % this is the most beautiful
+%\usetheme{Antibes}
+%\usetheme{Bergen} ok types
+%\usetheme{Berkeley} % blue
+%\usetheme{Berlin}
+%\usetheme{Boadilla} % good one
+%\usetheme{CambridgeUS} % good red one
+%\usetheme{Copenhagen} % good choice
+\usetheme{Darmstadt} % good black and blue
+\usecolortheme{beetle}
+%\usetheme{Dresden} % good blue black
+%\usetheme{Frankfurt}
+%\usetheme{Warsaw} % good for discussing examples
+%\usetheme{Goettingen} %simple sober - not that eyecandy similar to default
+%\usetheme{Ilmenau} % good blue green -
+%\usetheme{JuanLesPins} % very good to get the examples
+%\usetheme{Luebeck} %simple blue green
+%\usetheme{Madrid} % good 3D blue green ok types
+%\usetheme{Trondheim}
+%\usetheme{Malmoe} %simple
+%\usetheme{Marburg} %side heading simple looks
+%\usetheme{Montpellier} % simple
+%\usetheme{PaloAlto} % left right sidebars
+%\usetheme{Pittsburgh} % simple and heading to right
+%\usetheme{Rochester} %blue green with rectangular border
+%\usetheme{Singapore} %sober
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language spanish
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Privacidad en Internet
+\end_layout
+
+\begin_layout EndFrame
+
+\end_layout
+
+\begin_layout BeginFrame
+
+\end_layout
+
+\begin_layout EndFrame
+
+\end_layout
+
+\begin_layout BeginFrame
+Capas
+\end_layout
+
+\begin_layout EndFrame
+
+\end_layout
+
+\begin_layout BeginFrame
+Tipos de Clouds
+\end_layout
+
+\begin_layout EndFrame
+
+\end_layout
+
+\begin_layout BeginFrame
+
+\end_layout
+
+\begin_layout EndFrame
+
+\end_layout
+
+\begin_layout BeginFrame
+
+\end_layout
+
+\begin_layout EndFrame
+
+\end_layout
+
+\begin_layout BeginFrame
+
+\end_layout
+
+\begin_layout EndFrame
+
+\end_layout
+
+\begin_layout Itemize
+
+\end_layout
+
+\end_body
+\end_document
