@@ -47,6 +47,7 @@ Privacidad en Internet
 	- Caso cajera despedida del trabajo.
   - Alternativas a WhatsApp
 	- telegram
+	- Wickr 
   - Alternativas a gmail
 	- ¿Que paso con lavabit?
 	- RiseUp
@@ -92,10 +93,10 @@ Privacidad en Internet
   - [ONG Derechos digitales](https://www.derechosdigitales.org)
   - [Surveillance Self-Defense EFF's guide](https://ssd.eff.org/es)
   - [Carta de Derechos Humanos y Principios en Internet](http://diadeinternet.org/pdfs/Internet_Derechos_Principios.pdf)
-  - Charlas TED
-	- [protonmail](http://www.ted.com/talks/andy_yen_think_your_email_s_private_think_again)
+  - Charlas
+	- TED [protonmail](http://www.ted.com/talks/andy_yen_think_your_email_s_private_think_again)
+	- [Gerardo Richarte en GarageLab 4 Post-Privacidad](https://vimeo.com/10965423)
   - [Breve compendio de noticias e info](http://www.scoop.it/IPcontrol)
-
 - Licencia
   - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
