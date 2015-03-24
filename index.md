@@ -101,7 +101,7 @@
   - VeraCrypt
 
 ## Colaboraron en la realización de esta presentación
-Ivan Arce, Maximiliano Giraldes, Enrique Chaparro, Tess, Evelin Heidel, Teresa Sempere García.
+*Ivan Arce, Maximiliano Giraldes, Enrique Chaparro, Tess, Evelin Heidel, Teresa Sempere García.*
   
 ## Referencias
   - [Cryptotarjetas](http://media.espora.org/mgoblin_media/media_entries/1495/Criptotarjetas_RanchoElectronico.pdf)
