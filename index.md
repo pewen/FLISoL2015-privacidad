@@ -80,9 +80,6 @@
 	- ownCloud
   - RetroShare (P2P: email descentralizado, compartir archivos, cifrado c/gpg)
 
-## Secure Messaging Scorecard
-	- https://www.eff.org/es/secure-messaging-scorecard
-
 ## Anonimato on-line
   - Tor
 	- Tor Browser
@@ -104,18 +101,19 @@
 *Ivan Arce, Maximiliano Giraldes, Enrique Chaparro, Tess, Evelin Heidel, Teresa Sempere García.*
   
 ## Referencias
+  - [EFF Secure Messaging Scorecard](https://www.eff.org/es/secure-messaging-scorecard)
   - [Cryptotarjetas](http://media.espora.org/mgoblin_media/media_entries/1495/Criptotarjetas_RanchoElectronico.pdf)
   - [Fundación Vía Libre](http://www.vialibre.org.ar)
   - [ONG Derechos digitales](https://www.derechosdigitales.org)
   - [Surveillance Self-Defense EFF's guide](https://ssd.eff.org/es)
   - [Carta de Derechos Humanos y Principios en Internet](http://diadeinternet.org/pdfs/Internet_Derechos_Principios.pdf)
   - Charlas
-	- TED [protonmail](http://www.ted.com/talks/andy_yen_think_your_email_s_private_think_again)
+	- [Think your email's private? Think again (ProtonMail)](http://www.ted.com/talks/andy_yen_think_your_email_s_private_think_again)
 	- [Gerardo Richarte en GarageLab 4 Post-Privacidad](https://vimeo.com/10965423)
   - [Breve compendio de noticias e info](http://www.scoop.it/IPcontrol)
   
-### Licencia
+#### Licencia
   - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-### Contacto
+#### Contacto
   - [@ucaomo](https://twitter.com/ucaomo) Lucas E. Bellomo
