@@ -61,15 +61,15 @@
 	- Caso cajera despedida del trabajo.
   - Alternativas a WhatsApp
 	- TextSecure
+	- Wickr
 	- telegram
-	- Wickr 
   - Alternativas a gmail
 	- ¿Que paso con lavabit?
 	- Mantenidos por la comunidad
 		- RiseUp
 		- Autistici/Inventati
 		- OpenMailbox
-    - Enfocados en la seguridad desde el diseño
+	- Enfocados en la seguridad desde el diseño
 		- ProtonMail
 		- Tutanota
   - Privacidad en el Mail
@@ -80,19 +80,25 @@
 	- No colocar la dirección en una web
   - Phishing
 
-![](images/diez-maneras-detectar-phishing.jpg)
+	![](images/diez-maneras-detectar-phishing.jpg)
 
   - Mensajeria instantánea
 	- Pidgin & OTR
-	- Tox
+	- Tox: Instant messaging, video conferencing, and more
+
+	![](images/utox.png)
+	
 	- Jabber/XMPP
-	- Cryptocat
+	- Cryptocat: Chat with privacy. Group chat, file sharing, and more!
+
+	![](images/Cryptocat.png)
+	
 	- OTR
 	- ricochet:  Anonymous peer-to-peer instant messaging 
 	 
   - No todo es Facebook
 
-![](images/FB-is_watching.jpg)
+	![](images/FB-is_watching.jpg)
 
   - Lista de correo
   - Reddit
