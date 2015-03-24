@@ -2,7 +2,7 @@
 
 ![](images/homeland.jpg)
 
-## Motivación
+# Motivación
   - Concientizar sobre la privacidad en Internet.
 
   ![](images/streetv.jpg)
@@ -12,7 +12,7 @@
   y se mostrará como usarlas.
   - Generar interés en los asistentes para ser más cuidadosos con su privacidad.
 
-## Introducción
+# Introducción
   - ¿Por qué esta presentación? ¿Para qué? Charla de sensibilización
   - ¿Cuánto conoce Google sobre nosotros?
 
@@ -25,7 +25,7 @@
   - Cuando una empresa te da gratis un servicio la mercancía sos vos
     (tus datos)
 
-## Privacidad en Internet como Derecho Humano
+# Privacidad en Internet como Derecho Humano
   - Derecho al anonimato y utilizar el cifrado
       - Toda persona tiene derecho a comunicarse de forma anónima en
         Internet.
@@ -33,7 +33,7 @@
 	  encriptación para garantizar una comunicación segura, privada y
 	  anónima.
 
-## Seguridad y privacidad en el navegador.
+# Seguridad y privacidad en el navegador
 
 ![](images/dont-track-us.png)
 
@@ -48,15 +48,15 @@
     - Disconnect+µBlock: para reeplazar Ghostery.
 	- Blur (Formerly DoNotTrackMe): Protect your Passwords, Payments,
       and Privacy
-	- alguna para eliminar cookies
 	- AdBlock Edge: extension for blocking advertisements on the web.
-  - Buscadores (Mas allá de google)
-	- DuckDuckGo: no-tracking privacy policy
-	- StartPage: Web search results from Google in complete privacy
-	- Ixquick: provides search results from over ten best search engines in full privacy.
+
+# Buscadores (Mas allá de google)
+  - DuckDuckGo: no-tracking privacy policy
+  - StartPage: Web search results from Google in complete privacy
+  - Ixquick: provides search results from over ten best search engines in full privacy.
   - Metadata
   
-## Comunicándonos en la red
+# Comunicándonos en la red
   - Campaña: que vuelvan los alias
 	- Caso cajera despedida del trabajo.
   - Alternativas a WhatsApp
@@ -111,14 +111,14 @@
 	- SyncThing
   - RetroShare (P2P: email descentralizado, compartir archivos, cifrado c/gpg)
 
-## Anonimato on-line
+# Anonimato on-line
   - Tor
 	- Tor Browser
   - VPN
 	- Bitmask
 	- hola!
 
-## Cifrado del sistema de archivo (mantener seguros determinados documentos)
+# Cifrado del sistema de archivo (mantener seguros determinados documentos)
   - ¿Qué pasó con TrueCrypt?
   - Zulucrypt (maneja volumenes previamente creado con TrueCrypt)
   - Tc-play
@@ -128,10 +128,10 @@
   - CipherShed
   - VeraCrypt
 
-## Colaboraron en la realización de esta presentación
+# Colaboraron en la realización de esta presentación
 *Iván Arce, Maximiliano Giraldes, Enrique Chaparro, Tess, Evelin Heidel, Teresa Sempere García, Pascual Calicchio*
   
-## Referencias
+# Referencias
   - [EFF Secure Messaging Scorecard](https://www.eff.org/es/secure-messaging-scorecard)
   - [Cryptotarjetas](http://media.espora.org/mgoblin_media/media_entries/1495/Criptotarjetas_RanchoElectronico.pdf)
   - [Fundación Vía Libre](http://www.vialibre.org.ar)
