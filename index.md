@@ -65,11 +65,13 @@
 	- Wickr 
   - Alternativas a gmail
 	- ¿Que paso con lavabit?
-	- RiseUp
-	- Autistici/Inventati
-	- OpenMailbox
-	- ProtonMail
-	- Tutanota
+	- Mantenidos por la comunidad
+	  - RiseUp
+	  - Autistici/Inventati
+	  - OpenMailbox
+    - Enfocados en la seguridad desde el diseño
+	  - ProtonMail
+	  - Tutanota
   - Privacidad en el Mail
 	- GPG
 	- Thunderbird/Claws & Enigmail (para el manejo de las llaves)
