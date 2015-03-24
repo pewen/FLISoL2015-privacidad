@@ -37,9 +37,9 @@
 	- alguna para eliminar cookies
 	- AdBlock Edge: extension for blocking advertisements on the web.
   - Buscadores (Mas allá de google)
-	- DuckDuckGo
-	- StartPage
-	- Ixquick
+	- DuckDuckGo: no-tracking privacy policy
+	- StartPage: Web search results from Google in complete privacy
+	- Ixquick: provides search results from over ten best search engines in full privacy.
   - Metadata
   
 ## Comunicándonos en la red
@@ -116,4 +116,4 @@
   - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 #### Contacto
-  - [@ucaomo](https://twitter.com/ucaomo) *Lucas E. Bellomo*
+  - *Lucas E. Bellomo* [@ucaomo](https://twitter.com/ucaomo)
