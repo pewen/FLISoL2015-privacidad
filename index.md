@@ -5,11 +5,10 @@
   - Difundir software libre para mantener la privacidad.
   - En la medida de lo posible se instalaran las aplicaciones básicas
   y se mostrará como usarlas.
-  - Generar interés en los asistentes para ser más cuidadoso en lo que
-  ha privacidad se refiere.
+  - Generar interés en los asistentes para ser más cuidadosos con su privacidad.
 
 ## Introducción
-  - ¿Por qué esta presentación? ¿Para qué? Charla de Sensibilización
+  - ¿Por qué esta presentación? ¿Para qué? Charla de sensibilización
   - Google localation
   - Samsung Smart TV
   - Cuando una empresa te da gratis un servicio la mercancía sos vos
@@ -25,7 +24,7 @@
 
 ## Seguridad y privacidad en el navegador. Don't track us.
   - Elección del navegador (Prohibido explorer!)
-  - Extensiones del navegador
+  - Extensiones (add-ons) del navegador
 	- Privacy Badger: blocks spying ads and invisible trackers
 	- HTTPS Everywhere: Encrypt the Web! Automatically use HTTPS
       security on many sites.
@@ -36,7 +35,7 @@
 	- Blur (Formerly DoNotTrackMe): Protect your Passwords, Payments,
       and Privacy
 	- alguna para eliminar cookies
-	- AdBlock Edge
+	- AdBlock Edge: extension for blocking advertisements on the web.
   - Buscadores (Mas allá de google)
 	- DuckDuckGo
 	- StartPage
@@ -53,10 +52,10 @@
   - Alternativas a gmail
 	- ¿Que paso con lavabit?
 	- RiseUp
-	- ProtonMail
-	- OpenMailbox
-	- Tutanota
 	- Autistici/Inventati
+	- OpenMailbox
+	- ProtonMail
+	- Tutanota
   - Privacidad en el Mail
 	- GPG
 	- Thunderbird/Claws & Enigmail (para el manejo de las llaves)
@@ -98,13 +97,14 @@
   - VeraCrypt
 
 ## Colaboraron en la realización de esta presentación
-*Ivan Arce, Maximiliano Giraldes, Enrique Chaparro, Tess, Evelin Heidel, Teresa Sempere García.*
+*Iván Arce, Maximiliano Giraldes, Enrique Chaparro, Tess, Evelin Heidel, Teresa Sempere García.*
   
 ## Referencias
   - [EFF Secure Messaging Scorecard](https://www.eff.org/es/secure-messaging-scorecard)
   - [Cryptotarjetas](http://media.espora.org/mgoblin_media/media_entries/1495/Criptotarjetas_RanchoElectronico.pdf)
   - [Fundación Vía Libre](http://www.vialibre.org.ar)
   - [ONG Derechos digitales](https://www.derechosdigitales.org)
+  - [Fundación Sadosky, Programa Seguridad en TIC](http://www.fundacionsadosky.org.ar/es/programas-proyectos/seguridad-en-tic)
   - [Surveillance Self-Defense EFF's guide](https://ssd.eff.org/es)
   - [Carta de Derechos Humanos y Principios en Internet](http://diadeinternet.org/pdfs/Internet_Derechos_Principios.pdf)
   - Charlas
