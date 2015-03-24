@@ -103,7 +103,10 @@
   - Lista de correo
   - Reddit
   - Documentos Colaborativos
-	- Etherpad
+	- Etherpad: online editor providing collaborative editing in really real-time
+
+  ![](images/etherpad.png)
+  
   - Sincronizar archivos entre dispositivos
 	- SyncThing
   - RetroShare (P2P: email descentralizado, compartir archivos, cifrado c/gpg)
