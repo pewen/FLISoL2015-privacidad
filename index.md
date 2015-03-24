@@ -1,7 +1,12 @@
 # Privacidad en Internet
 
+![](images/homeland.jpg)
+
 ## Motivación
   - Concientizar sobre la privacidad en Internet.
+
+  ![](images/streetv.jpg)
+  
   - Difundir software libre para mantener la privacidad.
   - En la medida de lo posible se instalaran las aplicaciones básicas
   y se mostrará como usarlas.
@@ -9,8 +14,14 @@
 
 ## Introducción
   - ¿Por qué esta presentación? ¿Para qué? Charla de sensibilización
-  - Google localation
+  - ¿Cuánto conoce Google sobre nosotros?
+
+  ![](images/How-Much-Does-Google-Really-Know-About-You.jpg)
+
   - Samsung Smart TV
+
+  ![](images/samsung-oculus_news.jpg)
+  
   - Cuando una empresa te da gratis un servicio la mercancía sos vos
     (tus datos)
 
@@ -22,7 +33,10 @@
 	  encriptación para garantizar una comunicación segura, privada y
 	  anónima.
 
-## Seguridad y privacidad en el navegador. Don't track us.
+## Seguridad y privacidad en el navegador.
+
+![](images/dont-track-us.png)
+
   - Elección del navegador (Prohibido explorer!)
   - Extensiones (add-ons) del navegador
 	- Privacy Badger: blocks spying ads and invisible trackers
@@ -63,6 +77,9 @@
     - ¿Escribirías tu nro de cel en un paredón?
 	- No colocar la dirección en una web
   - Phishing
+
+![](images/diez-maneras-detectar-phishing.jpg)
+
   - Mensajeria instantánea
 	- Pidgin & OTR
 	- Tox
@@ -71,6 +88,9 @@
 	- OTR
 	 - hello de Firefox
   - No todo es Facebook
+
+  ![](images/FB-is_watching.jpg)
+
 	- Lista de correo
 	- Reddit
   - Documentos Colaborativos
@@ -107,6 +127,7 @@
   - [Fundación Sadosky, Programa Seguridad en TIC](http://www.fundacionsadosky.org.ar/es/programas-proyectos/seguridad-en-tic)
   - [Surveillance Self-Defense EFF's guide](https://ssd.eff.org/es)
   - [Carta de Derechos Humanos y Principios en Internet](http://diadeinternet.org/pdfs/Internet_Derechos_Principios.pdf)
+  - [how much does google really know about you? (infografía)](http://www.visualistan.com/2015/02/how-much-does-google-really-know-about-you.html)
   - Charlas
 	- [Think your email's private? Think again (ProtonMail)](http://www.ted.com/talks/andy_yen_think_your_email_s_private_think_again)
 	- [Gerardo Richarte *(Gera)* en GarageLab 4 Post-Privacidad](https://vimeo.com/10965423)
