@@ -86,17 +86,18 @@
 	- Jabber/XMPP
 	- Cryptocat
 	- OTR
-	 - hello de Firefox
+	- ricochet:  Anonymous peer-to-peer instant messaging 
+	 
   - No todo es Facebook
 
-  ![](images/FB-is_watching.jpg)
+![](images/FB-is_watching.jpg)
 
-	- Lista de correo
-	- Reddit
+  - Lista de correo
+  - Reddit
   - Documentos Colaborativos
 	- Etherpad
-  - Almacenamiento en Cloud
-	- ownCloud
+  - Sincronizar archivos entre dispositivos
+	- SyncThing
   - RetroShare (P2P: email descentralizado, compartir archivos, cifrado c/gpg)
 
 ## Anonimato on-line
