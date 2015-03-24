@@ -97,7 +97,7 @@
   - VeraCrypt
 
 ## Colaboraron en la realización de esta presentación
-*Iván Arce, Maximiliano Giraldes, Enrique Chaparro, Tess, Evelin Heidel, Teresa Sempere García.*
+*Iván Arce, Maximiliano Giraldes, Enrique Chaparro, Tess, Evelin Heidel, Teresa Sempere García, Pascual Calicchio*
   
 ## Referencias
   - [EFF Secure Messaging Scorecard](https://www.eff.org/es/secure-messaging-scorecard)
@@ -109,11 +109,11 @@
   - [Carta de Derechos Humanos y Principios en Internet](http://diadeinternet.org/pdfs/Internet_Derechos_Principios.pdf)
   - Charlas
 	- [Think your email's private? Think again (ProtonMail)](http://www.ted.com/talks/andy_yen_think_your_email_s_private_think_again)
-	- [Gerardo Richarte en GarageLab 4 Post-Privacidad](https://vimeo.com/10965423)
+	- [Gerardo Richarte *(Gera)* en GarageLab 4 Post-Privacidad](https://vimeo.com/10965423)
   - [Breve compendio de noticias e info](http://www.scoop.it/IPcontrol)
   
 #### Licencia
   - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 #### Contacto
-  - [@ucaomo](https://twitter.com/ucaomo) Lucas E. Bellomo
+  - [@ucaomo](https://twitter.com/ucaomo) *Lucas E. Bellomo*
