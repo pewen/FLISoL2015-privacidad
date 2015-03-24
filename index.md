@@ -66,12 +66,12 @@
   - Alternativas a gmail
 	- ¿Que paso con lavabit?
 	- Mantenidos por la comunidad
-	  - RiseUp
-	  - Autistici/Inventati
-	  - OpenMailbox
+		- RiseUp
+		- Autistici/Inventati
+		- OpenMailbox
     - Enfocados en la seguridad desde el diseño
-	  - ProtonMail
-	  - Tutanota
+		- ProtonMail
+		- Tutanota
   - Privacidad en el Mail
 	- GPG
 	- Thunderbird/Claws & Enigmail (para el manejo de las llaves)
