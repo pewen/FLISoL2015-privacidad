@@ -1,3 +1,5 @@
+![](images/dont-track-us.png)
+
 # Privacidad en Internet
 
 ![](images/homeland.jpg)
@@ -14,6 +16,9 @@
 
 # Introducción
   - ¿Por qué esta presentación? ¿Para qué? Charla de sensibilización
+
+  ![](images/big-brother-amateur.png)
+
   - ¿Cuánto conoce Google sobre nosotros?
 
   ![](images/How-Much-Does-Google-Really-Know-About-You.jpg)
@@ -21,6 +26,12 @@
   - Samsung Smart TV
 
   ![](images/samsung-oculus_news.jpg)
+
+  - ¿Sabías que tus búsquedas guardadas pueden ser legalmente solicitadas?
+
+  https://www.google.com/transparencyreport/userdatarequests
+
+  ![](images/google_informe_transparencia.png)
   
   - Cuando una empresa te da gratis un servicio la mercancía sos vos
     (tus datos)
@@ -35,7 +46,7 @@
 
 # Seguridad y privacidad en el navegador
 
-![](images/dont-track-us.png)
+![](images/spying.jpg)
 
   - Elección del navegador (Prohibido explorer!)
   - Extensiones (add-ons) del navegador
@@ -50,15 +61,15 @@
       and Privacy
 	- AdBlock Edge: extension for blocking advertisements on the web.
 
-# Buscadores (Mas allá de google)
+# Buscadores (más allá de google)
   - DuckDuckGo: no-tracking privacy policy
   - StartPage: Web search results from Google in complete privacy
-  - Ixquick: provides search results from over ten best search engines in full privacy.
+  - Ixquick: provides search results from over ten best search engines in full privacy
   - Metadata
   
 # Comunicándonos en la red
   - Campaña: que vuelvan los alias
-	- Caso cajera despedida del trabajo.
+	- Caso cajera despedida del trabajo
   - Alternativas a WhatsApp
 	- TextSecure
 	- Wickr
@@ -129,24 +140,26 @@
   - VeraCrypt
 
 # Colaboraron en la realización de esta presentación
-*Iván Arce, Maximiliano Giraldes, Enrique Chaparro, Tess, Evelin Heidel, Teresa Sempere García, Pascual Calicchio*
+*Iván Arce, Maximiliano Giraldes, Enrique Chaparro, Tess, @derechoaleer, Evelin Heidel, Teresa Sempere García, Pascual Calicchio*
   
 # Referencias
   - [EFF Secure Messaging Scorecard](https://www.eff.org/es/secure-messaging-scorecard)
+  - [Anonimato y cifrado (EFF)](https://www.eff.org/files/2015/03/18/anonimatoycifrado-eff-11.pdf)
   - [Cryptotarjetas](http://media.espora.org/mgoblin_media/media_entries/1495/Criptotarjetas_RanchoElectronico.pdf)
   - [Fundación Vía Libre](http://www.vialibre.org.ar)
   - [ONG Derechos digitales](https://www.derechosdigitales.org)
   - [Fundación Sadosky, Programa Seguridad en TIC](http://www.fundacionsadosky.org.ar/es/programas-proyectos/seguridad-en-tic)
-  - [Surveillance Self-Defense EFF's guide](https://ssd.eff.org/es)
+  - [Autoprotección Digital Contra La Vigilancia (EFF)](https://ssd.eff.org/es)
   - [Carta de Derechos Humanos y Principios en Internet](http://diadeinternet.org/pdfs/Internet_Derechos_Principios.pdf)
   - [how much does google really know about you? (infografía)](http://www.visualistan.com/2015/02/how-much-does-google-really-know-about-you.html)
   - Charlas
 	- [Think your email's private? Think again (ProtonMail)](http://www.ted.com/talks/andy_yen_think_your_email_s_private_think_again)
 	- [Gerardo Richarte *(Gera)* en GarageLab 4 Post-Privacidad](https://vimeo.com/10965423)
   - [Breve compendio de noticias e info](http://www.scoop.it/IPcontrol)
+  - [Derecho a Leer](http://derechoaleer.org)
   
 #### Licencia
-  - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 #### Contacto
-  - *Lucas E. Bellomo* [@ucaomo](https://twitter.com/ucaomo)
+*Lucas E. Bellomo* [@ucaomo](https://twitter.com/ucaomo)
