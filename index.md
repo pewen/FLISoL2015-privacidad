@@ -4,7 +4,9 @@
 
 ![](images/homeland.jpg)
 
-# Motivación
+## 1ra parte: Conceptual
+
+### Motivación
   - Concientizar sobre la privacidad en Internet.
 
   ![](images/streetv.jpg)
@@ -14,7 +16,7 @@
   y se mostrará como usarlas.
   - Generar interés en los asistentes para ser más cuidadosos con su privacidad.
 
-# Introducción
+### Introducción
   - ¿Por qué esta presentación? ¿Para qué? Charla de sensibilización
 
   ![](images/big-brother-amateur.png)
@@ -36,7 +38,7 @@
   - Cuando una empresa te da gratis un servicio la mercancía sos vos
     (tus datos)
 
-# Privacidad en Internet como Derecho Humano
+### Privacidad en Internet como Derecho Humano
   - Derecho al anonimato y utilizar el cifrado
       - Toda persona tiene derecho a comunicarse de forma anónima en
         Internet.
@@ -44,7 +46,9 @@
 	  encriptación para garantizar una comunicación segura, privada y
 	  anónima.
 
-# Seguridad y privacidad en el navegador
+## 2da parte: Técnica
+
+### Seguridad y privacidad en el navegador
 
 ![](images/spying.jpg)
 
@@ -61,13 +65,13 @@
       and Privacy
 	- AdBlock Edge: extension for blocking advertisements on the web.
 
-# Buscadores (más allá de google)
+### Buscadores (más allá de google)
   - DuckDuckGo: no-tracking privacy policy
   - StartPage: Web search results from Google in complete privacy
   - Ixquick: provides search results from over ten best search engines in full privacy
   - Metadata
   
-# Comunicándonos en la red
+### Comunicándonos en la red
   - Campaña: que vuelvan los alias
 	- Caso cajera despedida del trabajo
   - Alternativas a WhatsApp
@@ -122,17 +126,17 @@
 	- SyncThing
   - RetroShare (P2P: email descentralizado, compartir archivos, cifrado c/gpg)
 
-# Anonimato on-line
+### Anonimato y Seguridad on-line
   - Tor
 	- Tor Browser
   - VPN
 	- Bitmask
 	- hola!
 
-# DNS
+### DNS
   - Open NIC Project
 
-# Cifrado del sistema de archivo (mantener seguros determinados documentos)
+### Cifrado del sistema de archivo (mantener seguros determinados documentos)
   - ¿Qué pasó con TrueCrypt?
   - Zulucrypt (maneja volumenes previamente creado con TrueCrypt)
   - Tc-play
@@ -142,10 +146,10 @@
   - CipherShed
   - VeraCrypt
 
-# Colaboraron en la realización de esta presentación
+## Colaboraron en la realización de esta presentación
 *Iván Arce, Maximiliano Giraldes, Enrique Chaparro, Tess, @derechoaleer, Evelin Heidel, Teresa Sempere García, Pascual Calicchio*
   
-# Referencias
+## Referencias
   - [PRISM Break](https://prism-break.org/es/)
   - [EFF Secure Messaging Scorecard](https://www.eff.org/es/secure-messaging-scorecard)
   - [Anonimato y cifrado (EFF)](https://www.eff.org/files/2015/03/18/anonimatoycifrado-eff-11.pdf)
@@ -162,8 +166,8 @@
   - [Breve compendio de noticias e info](http://www.scoop.it/IPcontrol)
   - [Derecho a Leer](http://derechoaleer.org)
   
-Licencia
+## Licencia
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-Contacto:
+## Contacto
 *Lucas E. Bellomo* [@ucaomo](https://twitter.com/ucaomo)
