@@ -129,6 +129,9 @@
 	- Bitmask
 	- hola!
 
+# DNS
+  - Open NIC Project
+
 # Cifrado del sistema de archivo (mantener seguros determinados documentos)
   - ¿Qué pasó con TrueCrypt?
   - Zulucrypt (maneja volumenes previamente creado con TrueCrypt)
@@ -143,6 +146,7 @@
 *Iván Arce, Maximiliano Giraldes, Enrique Chaparro, Tess, @derechoaleer, Evelin Heidel, Teresa Sempere García, Pascual Calicchio*
   
 # Referencias
+  - [PRISM Break](https://prism-break.org/es/)
   - [EFF Secure Messaging Scorecard](https://www.eff.org/es/secure-messaging-scorecard)
   - [Anonimato y cifrado (EFF)](https://www.eff.org/files/2015/03/18/anonimatoycifrado-eff-11.pdf)
   - [Cryptotarjetas](http://media.espora.org/mgoblin_media/media_entries/1495/Criptotarjetas_RanchoElectronico.pdf)
@@ -158,8 +162,8 @@
   - [Breve compendio de noticias e info](http://www.scoop.it/IPcontrol)
   - [Derecho a Leer](http://derechoaleer.org)
   
-#### Licencia
+Licencia
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-#### Contacto
+Contacto:
 *Lucas E. Bellomo* [@ucaomo](https://twitter.com/ucaomo)
