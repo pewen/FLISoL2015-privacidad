@@ -180,14 +180,6 @@
   - [Breve compendio de noticias e info](http://www.scoop.it/IPcontrol)
   - [Derecho a Leer](http://derechoaleer.org)
   
-<<<<<<< HEAD
 Licencia: ![](images/CC_BY.png)
 
 Contacto: *Lucas E. Bellomo* [@ucaomo](https://twitter.com/ucaomo)
-=======
-## Licencia
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-
-## Contacto
-*Lucas E. Bellomo* [@ucaomo](https://twitter.com/ucaomo)
->>>>>>> 2193cda18f7d7e7062e5e29934b1a43c24f8a4fa
