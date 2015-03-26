@@ -50,6 +50,12 @@
 	  encriptación para garantizar una comunicación segura, privada y
 	  anónima.
 
+   ![](images/privacidad_01.jpg)
+
+"si no hay una real conciencia social sobre el problema (de la entrega masiva de datos) será muy difícil revertir esta tendencia, pero hasta que las personas no comprendan los riesgos reales de entregar sus datos de la forma en que lo hacen, difícilmente podamos encontrar una solución apropiada. Además, está todo el procesamiento de nuestros datos que hacen las empresas privadas, prácticamente sin control alguno, se realiza sin ningún respeto por los derechos de los ciudadanos que no tienen recursos reales para defenderse de semejantes niveles de intrusión."
+
+*Beatriz Busaniche*
+
 ## 2da parte: Técnica
 
 ### Seguridad y privacidad en el navegador
