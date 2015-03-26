@@ -4,7 +4,9 @@
 
 ![](images/homeland.jpg)
 
-# Motivación
+## 1ra parte: Conceptual
+
+### Motivación
   - Concientizar sobre la privacidad en Internet.
 
   ![](images/streetv.jpg)
@@ -14,7 +16,7 @@
   y se mostrará como usarlas.
   - Generar interés en los asistentes para ser más cuidadosos con su privacidad.
 
-# Introducción
+### Introducción
   - ¿Por qué esta presentación? ¿Para qué? Charla de sensibilización
 
   ![](images/big-brother-amateur.png)
@@ -22,6 +24,8 @@
   - ¿Cuánto conoce Google sobre nosotros?
 
   ![](images/How-Much-Does-Google-Really-Know-About-You.jpg)
+
+  ![](images/google_knows.jpeg)
 
   - Samsung Smart TV
 
@@ -32,11 +36,15 @@
   https://www.google.com/transparencyreport/userdatarequests
 
   ![](images/google_informe_transparencia.png)
+
+  Facebook: Government Requests Report https://govtrequests.facebook.com
+
+  ![](images/facebook-government_requests_report.png)
   
   - Cuando una empresa te da gratis un servicio la mercancía sos vos
     (tus datos)
 
-# Privacidad en Internet como Derecho Humano
+### Privacidad en Internet como Derecho Humano
   - Derecho al anonimato y utilizar el cifrado
       - Toda persona tiene derecho a comunicarse de forma anónima en
         Internet.
@@ -44,7 +52,15 @@
 	  encriptación para garantizar una comunicación segura, privada y
 	  anónima.
 
-# Seguridad y privacidad en el navegador
+   ![](images/privacidad_01.jpg)
+
+"si no hay una real conciencia social sobre el problema (de la entrega masiva de datos) será muy difícil revertir esta tendencia, pero hasta que las personas no comprendan los riesgos reales de entregar sus datos de la forma en que lo hacen, difícilmente podamos encontrar una solución apropiada. Además, está todo el procesamiento de nuestros datos que hacen las empresas privadas, prácticamente sin control alguno, se realiza sin ningún respeto por los derechos de los ciudadanos que no tienen recursos reales para defenderse de semejantes niveles de intrusión."
+
+*Beatriz Busaniche*
+
+## 2da parte: Técnica
+
+### Seguridad y privacidad en el navegador
 
 ![](images/spying.jpg)
 
@@ -54,20 +70,19 @@
 	- HTTPS Everywhere: Encrypt the Web! Automatically use HTTPS
       security on many sites.
 	- Disconnect: Make the web faster, more private, and more secure
-	- Ghostery: Protect your privacy. See who's tracking your web
-      browsing and block them
+	- Ghostery: Protect your privacy. See who's tracking your web browsing and block them
     - Disconnect+µBlock: para reeplazar Ghostery.
-	- Blur (Formerly DoNotTrackMe): Protect your Passwords, Payments,
-      and Privacy
+	- Blur (Formerly DoNotTrackMe): Protect your Passwords, Payments, and Privacy
 	- AdBlock Edge: extension for blocking advertisements on the web.
+	- Self-Destructing Cookies: Protects against trackers and zombie-cookies
 
-# Buscadores (más allá de google)
+### Buscadores (más allá de google)
   - DuckDuckGo: no-tracking privacy policy
   - StartPage: Web search results from Google in complete privacy
   - Ixquick: provides search results from over ten best search engines in full privacy
   - Metadata
   
-# Comunicándonos en la red
+### Comunicándonos en la red
   - Campaña: que vuelvan los alias
 	- Caso cajera despedida del trabajo
   - Alternativas a WhatsApp
@@ -122,14 +137,17 @@
 	- SyncThing
   - RetroShare (P2P: email descentralizado, compartir archivos, cifrado c/gpg)
 
-# Anonimato on-line
+### Anonimato y Seguridad on-line
   - Tor
 	- Tor Browser
   - VPN
 	- Bitmask
 	- hola!
 
-# Cifrado del sistema de archivo (mantener seguros determinados documentos)
+### DNS
+  - Open NIC Project
+
+### Cifrado del sistema de archivo (mantener seguros determinados documentos)
   - ¿Qué pasó con TrueCrypt?
   - Zulucrypt (maneja volumenes previamente creado con TrueCrypt)
   - Tc-play
@@ -139,10 +157,12 @@
   - CipherShed
   - VeraCrypt
 
-# Colaboraron en la realización de esta presentación
+## Colaboraron en la realización de esta presentación
 *Iván Arce, Maximiliano Giraldes, Enrique Chaparro, Tess, @derechoaleer, Evelin Heidel, Teresa Sempere García, Pascual Calicchio*
   
-# Referencias
+## Referencias
+  - [¿Cuánta vigilancia puede soportar la democracia?](https://www.gnu.org/philosophy/surveillance-vs-democracy.es.html)
+  - [PRISM Break](https://prism-break.org/es/)
   - [EFF Secure Messaging Scorecard](https://www.eff.org/es/secure-messaging-scorecard)
   - [Anonimato y cifrado (EFF)](https://www.eff.org/files/2015/03/18/anonimatoycifrado-eff-11.pdf)
   - [Cryptotarjetas](http://media.espora.org/mgoblin_media/media_entries/1495/Criptotarjetas_RanchoElectronico.pdf)
@@ -153,11 +173,21 @@
   - [Carta de Derechos Humanos y Principios en Internet](http://diadeinternet.org/pdfs/Internet_Derechos_Principios.pdf)
   - [how much does google really know about you? (infografía)](http://www.visualistan.com/2015/02/how-much-does-google-really-know-about-you.html)
   - Charlas
+	- [Beatriz Busaniche sobre la cultura, la privacidad y los derechos en Internet](https://www.youtube.com/watch?v=lCQ_GA1nmtk)
 	- [Think your email's private? Think again (ProtonMail)](http://www.ted.com/talks/andy_yen_think_your_email_s_private_think_again)
 	- [Gerardo Richarte *(Gera)* en GarageLab 4 Post-Privacidad](https://vimeo.com/10965423)
+	- [¿Cómo nos vigilan en internet?](https://www.youtube.com/watch?v=tnDxRjMDGQM)
   - [Breve compendio de noticias e info](http://www.scoop.it/IPcontrol)
   - [Derecho a Leer](http://derechoaleer.org)
   
+<<<<<<< HEAD
 Licencia: ![](images/CC_BY.png)
 
 Contacto: *Lucas E. Bellomo* [@ucaomo](https://twitter.com/ucaomo)
+=======
+## Licencia
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+## Contacto
+*Lucas E. Bellomo* [@ucaomo](https://twitter.com/ucaomo)
+>>>>>>> 2193cda18f7d7e7062e5e29934b1a43c24f8a4fa
