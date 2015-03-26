@@ -34,6 +34,10 @@
   https://www.google.com/transparencyreport/userdatarequests
 
   ![](images/google_informe_transparencia.png)
+
+  Facebook: Government Requests Report https://govtrequests.facebook.com
+
+  ![](images/facebook-government_requests_report.png)
   
   - Cuando una empresa te da gratis un servicio la mercancía sos vos
     (tus datos)
