@@ -25,6 +25,8 @@
 
   ![](images/How-Much-Does-Google-Really-Know-About-You.jpg)
 
+  ![](images/google_knows.jpeg)
+
   - Samsung Smart TV
 
   ![](images/samsung-oculus_news.jpg)
@@ -159,6 +161,7 @@
 *Iván Arce, Maximiliano Giraldes, Enrique Chaparro, Tess, @derechoaleer, Evelin Heidel, Teresa Sempere García, Pascual Calicchio*
   
 ## Referencias
+  - [¿Cuánta vigilancia puede soportar la democracia?](https://www.gnu.org/philosophy/surveillance-vs-democracy.es.html)
   - [PRISM Break](https://prism-break.org/es/)
   - [EFF Secure Messaging Scorecard](https://www.eff.org/es/secure-messaging-scorecard)
   - [Anonimato y cifrado (EFF)](https://www.eff.org/files/2015/03/18/anonimatoycifrado-eff-11.pdf)
@@ -170,8 +173,10 @@
   - [Carta de Derechos Humanos y Principios en Internet](http://diadeinternet.org/pdfs/Internet_Derechos_Principios.pdf)
   - [how much does google really know about you? (infografía)](http://www.visualistan.com/2015/02/how-much-does-google-really-know-about-you.html)
   - Charlas
+	- [Beatriz Busaniche sobre la cultura, la privacidad y los derechos en Internet](https://www.youtube.com/watch?v=lCQ_GA1nmtk)
 	- [Think your email's private? Think again (ProtonMail)](http://www.ted.com/talks/andy_yen_think_your_email_s_private_think_again)
 	- [Gerardo Richarte *(Gera)* en GarageLab 4 Post-Privacidad](https://vimeo.com/10965423)
+	- [¿Cómo nos vigilan en internet?](https://www.youtube.com/watch?v=tnDxRjMDGQM)
   - [Breve compendio de noticias e info](http://www.scoop.it/IPcontrol)
   - [Derecho a Leer](http://derechoaleer.org)
   
