@@ -58,12 +58,11 @@
 	- HTTPS Everywhere: Encrypt the Web! Automatically use HTTPS
       security on many sites.
 	- Disconnect: Make the web faster, more private, and more secure
-	- Ghostery: Protect your privacy. See who's tracking your web
-      browsing and block them
+	- Ghostery: Protect your privacy. See who's tracking your web browsing and block them
     - Disconnect+µBlock: para reeplazar Ghostery.
-	- Blur (Formerly DoNotTrackMe): Protect your Passwords, Payments,
-      and Privacy
+	- Blur (Formerly DoNotTrackMe): Protect your Passwords, Payments, and Privacy
 	- AdBlock Edge: extension for blocking advertisements on the web.
+	- Self-Destructing Cookies: Protects against trackers and zombie-cookies
 
 ### Buscadores (más allá de google)
   - DuckDuckGo: no-tracking privacy policy
