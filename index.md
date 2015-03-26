@@ -158,8 +158,6 @@
   - [Breve compendio de noticias e info](http://www.scoop.it/IPcontrol)
   - [Derecho a Leer](http://derechoaleer.org)
   
-#### Licencia
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+Licencia: ![](images/CC_BY.png)
 
-#### Contacto
-*Lucas E. Bellomo* [@ucaomo](https://twitter.com/ucaomo)
+Contacto: *Lucas E. Bellomo* [@ucaomo](https://twitter.com/ucaomo)
