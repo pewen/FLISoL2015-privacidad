@@ -21,9 +21,11 @@
 
   ![](images/big-brother-amateur.png)
 
-  - ¿Cuánto conoce Google sobre nosotros?
+### ¿Cuánto conoce Google sobre nosotros?
 
   ![](images/How-Much-Does-Google-Really-Know-About-You.jpg)
+
+  Rta! (aproximada)
 
   ![](images/google_knows.jpeg)
 
@@ -31,9 +33,9 @@
 
   ![](images/samsung-oculus_news.jpg)
 
-  - ¿Sabías que tus búsquedas guardadas pueden ser legalmente solicitadas?
+### ¿Sabías que tus búsquedas guardadas pueden ser legalmente solicitadas?
 
-  https://www.google.com/transparencyreport/userdatarequests
+  Google Informe de transparencia https://www.google.com/transparencyreport/userdatarequests
 
   ![](images/google_informe_transparencia.png)
 
