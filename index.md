@@ -60,6 +60,8 @@
 
 *Beatriz Busaniche*
 
+![](images/privacidad-muchos_mirando.jpeg)
+
 ## 2da parte: Técnica
 
 ### Seguridad y privacidad en el navegador
