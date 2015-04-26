@@ -21,9 +21,11 @@
 
   ![](images/big-brother-amateur.png)
 
-  - ¿Cuánto conoce Google sobre nosotros?
+### ¿Cuánto conoce Google sobre nosotros?
 
   ![](images/How-Much-Does-Google-Really-Know-About-You.jpg)
+
+  Rta! (aproximada)
 
   ![](images/google_knows.jpeg)
 
@@ -31,9 +33,9 @@
 
   ![](images/samsung-oculus_news.jpg)
 
-  - ¿Sabías que tus búsquedas guardadas pueden ser legalmente solicitadas?
+### ¿Sabías que tus búsquedas guardadas pueden ser legalmente solicitadas?
 
-  https://www.google.com/transparencyreport/userdatarequests
+  Google Informe de transparencia https://www.google.com/transparencyreport/userdatarequests
 
   ![](images/google_informe_transparencia.png)
 
@@ -57,6 +59,8 @@
 "si no hay una real conciencia social sobre el problema (de la entrega masiva de datos) será muy difícil revertir esta tendencia, pero hasta que las personas no comprendan los riesgos reales de entregar sus datos de la forma en que lo hacen, difícilmente podamos encontrar una solución apropiada. Además, está todo el procesamiento de nuestros datos que hacen las empresas privadas, prácticamente sin control alguno, se realiza sin ningún respeto por los derechos de los ciudadanos que no tienen recursos reales para defenderse de semejantes niveles de intrusión."
 
 *Beatriz Busaniche*
+
+![](images/privacidad-muchos_mirando.jpeg)
 
 ## 2da parte: Técnica
 
